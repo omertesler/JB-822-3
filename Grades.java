@@ -1,6 +1,6 @@
 /**
  * Write a program that will compute some statistics about students grades.
- * It will ask the user to enter the user to enter the number of students.
+ * It will ask the user to enter the number of students.
  * Then, the program will ask the user to enter the grades one by one.
  * The range of each grade is an integer between 0 and 100.
  * Make sure to use an array where the type is the closest to this range (hint: don't use an array of "int"'s).
