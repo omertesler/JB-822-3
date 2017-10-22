@@ -22,7 +22,7 @@ package ameedf.jb8223.assignments.hw02;
  *    It will add the seconds only if it's in the range [0..1,000,000,000]. No value is returned
  * 4. addMilliseconds - with a single parameter which represents the number of milliseconds to add.
  *    It will add the milliseconds only if it's in the range [0..1,000,000,000]. No value is returned
- * 5. print - with a single boolean parameter which represents if we want to display a 24 hours clock
+ * 5. print - with a single boolean parameter that indicates weather we want to display a 24 hours clock
  *    or 12 hours clock. If a 12 hours clock is chosen it will add "AM/PM" at the end of the input.
  *    NOTE: the printout should include leading zeros (don't use any formatting methods !!)
  *    For example: 12:3:9.56 --> 12:03:09.056
